@@ -3,8 +3,8 @@
 # Project status(Active)
 
 # Project objective:
-### The price of cooking gas, when it represents a high percentage in relation to the minimum wage,
-can have a more severe impact on the low-income population, who dedicate a larger portion of their wages to buying gas.
+### The price of cooking gas, when it represents a high percentage in relation to the minimum wage, can have a more severe impact on the low-income population, who dedicate a larger portion of their wages to buying gas.
+(The data bibliography is in a.txt file in the GitHub docs.)
 
 ## Methods:
 Webscrapping/
